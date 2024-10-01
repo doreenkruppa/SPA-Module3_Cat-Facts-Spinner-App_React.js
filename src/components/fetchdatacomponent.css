@@ -1,0 +1,14 @@
+h1 {
+  color: blueviolet;
+}
+.infocard {
+  width: 30rem;
+  margin: auto;
+}
+p {
+  margin: 20px;
+  padding: 20px;
+}
+span {
+  font-weight: bold;
+}
